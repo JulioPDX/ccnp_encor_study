@@ -91,7 +91,7 @@ That will bring up the Image Occlusion add mode, I've tried to highlight the mos
 
 ![Occlusion Add](/images/occlusion_add.PNG)
 
-This is what it would look like when reviewing a card created my Image Occlusion.
+This is what it would look like when reviewing a card created by Image Occlusion.
 
 ![Occlusion Review](/images/occlusion_review.PNG)
 
