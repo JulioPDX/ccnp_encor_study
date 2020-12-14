@@ -63,7 +63,7 @@ Lets pretend I just hit the `Add` button above. This is probably how a lot of my
 
 ![Anki Cloze Beginner](/images/anki_bgp_cloze.PNG)
 
-Here is what looks like when I am prompted with the card.
+Here is the view when prompted with the card.
 
 ![Anki BGP Question](/images/anki_bgp_question.PNG)
 
