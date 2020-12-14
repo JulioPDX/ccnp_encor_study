@@ -96,7 +96,11 @@ This is what it would look like when reviewing a card created my Image Occlusion
 ![Occlusion Review](/images/occlusion_review.PNG)
 ### CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-This was honestly my first time using CBT Nuggets. I can honestly say I am a fan. The organization of the content and the positivity of the instructors goes a long way. Not only is the instruction well organized but they include virtual labs you can launch within your browser :exploding_head:! 
+This was honestly my first time using CBT Nuggets. I can honestly say I am a fan. The organization of the content and the positivity of the instructors goes a long way. Not only are the lessons well organized but they include virtual labs you can launch within your browser :exploding_head:! The OCG does not follow along with the exam blueprint but the CBT ENCOR course does. It makes for a bit of juggling act finding the videos that match up with the OCG topics. Not blaming CBT but it is what it is. Another note on that, once I am done reading a chapter from the OCG/labbing a chapter. I will also correspond that with the CBT videos. Basically getting the instruction from reading and listening/watching.
+
+Thats really all the praise I can give, check them out! :thumbsup: :thumbsup: :thumbsup:
+
+[CBT Nuggets](https://www.cbtnuggets.com)
 
 ### Boson ExSim-Max [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
