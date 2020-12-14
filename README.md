@@ -37,9 +37,9 @@ You do not have to lab to pass this exam.... BUT you will be doing yourself a di
 
 I dont want to push a particular labbing setup. Whether you decide to build a physical lab or something virtual. It all has pros and cons... or what the fancy engineers would say "tradeoffs". A lot of great Cisco gear can be purchased online for relatively low cost. Ill link a few virtual options below.
 
-- [EVE-NG](https://www.eve-ng.net/)
-- [GNS3](https://www.gns3.com/)
-- [CML](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal)
+- [EVE-NG](https://www.eve-ng.net/) :thumbsup:
+- [GNS3](https://www.gns3.com/) :thumbsup:
+- [CML](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal) :man_shrugging:
 
 Ill give you an example on how I would lab. Lets say we're reading through the OCG and they give us this great topology on VTP!
 
