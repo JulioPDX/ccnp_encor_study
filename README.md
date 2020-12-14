@@ -7,7 +7,7 @@
     - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
     - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: top](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler-top)
       - [Anki Add-ons :fire: :fire: :fire: :world_map: :brain: top](#anki-add-ons-fire-fire-fire-world_map-brain-top)
-    - [CBT Nuggets top](#cbt-nuggets-top)
+    - [CBT Nuggets :computer: :man_teacher: :woman_teacher: :abacus: top](#cbt-nuggets-computer-man_teacher-woman_teacher-abacus-top)
     - [Boson ExSim-Max top](#boson-exsim-max-top)
     - [Honorable Mentions top](#honorable-mentions-top)
   - [Final Thoughts top](#final-thoughts-top)
@@ -94,7 +94,7 @@ That will bring up the Image Occlusion add mode, I've tried to highlight the mos
 This is what it would look like when reviewing a card created my Image Occlusion.
 
 ![Occlusion Review](/images/occlusion_review.PNG)
-### CBT Nuggets [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+### CBT Nuggets :computer: :man_teacher: :woman_teacher: :abacus: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 ### Boson ExSim-Max [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
