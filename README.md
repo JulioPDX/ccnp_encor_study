@@ -10,8 +10,8 @@
     - [CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: top](#cbt-nuggets-computer-man_teacher-video_camera-woman_teacher-film_strip-abacus-top)
     - [Boson ExSim-Max :question: :grey_question: :thumbsup: top](#boson-exsim-max-question-grey_question-thumbsup-top)
     - [Honorable Mentions :speaker: :sound: :loud_sound: :loudspeaker: :mega: :postal_horn: :bell: top](#honorable-mentions-speaker-sound-loud_sound-loudspeaker-mega-postal_horn-bell-top)
-  - [Final Thoughts top](#final-thoughts-top)
-  - [Appreciation top](#appreciation-top)
+  - [Final Exam Thoughts :speaking_head: :thought_balloon: top](#final-exam-thoughts-speaking_head-thought_balloon-top)
+  - [Appreciation :hugs: top](#appreciation-hugs-top)
 
 ## Introduction and Purpose :wave: :v: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
@@ -117,6 +117,6 @@ Here is a link of other resources I used in my studies. With any Cisco Exam I've
 - [CCIE Routing and Switching v5.0 Volume 1-2](https://www.ciscopress.com/store/ccie-routing-and-switching-v5.0-official-cert-guide-9781587144929)
 - [Lots of great resources from other folks that have passed on reddit](https://www.reddit.com/r/ccnp/)
 
-## Final Thoughts [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+## Final Exam Thoughts :speaking_head: :thought_balloon: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-## Appreciation [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+## Appreciation :hugs: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
