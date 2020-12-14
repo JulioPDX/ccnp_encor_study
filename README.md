@@ -42,11 +42,11 @@ I dont want to push a particular labbing setup. Whether you decide to build a ph
 
 Ill give you an example on how I would lab. Lets say we're reading through the OCG and they give us this great topology on VTP!
 
-![CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide, Chapter 5 pg. 95](./images/cisco_vtp.png)
+![CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide, Chapter 5 pg. 95](./images/cisco_vtp.PNG)
 
 The rest of the book would walk the reader through VTP server vs client vs transparent modes. Reading is just part of the battle. Labbing as I read the book greatly helps me retain the information and really get the commands down! If you do not have a reference topology to start from just build it! Mess around with the lab and break it.. then fix it! Even better! Below is just a snippet from when I created the lab virtually.
 
-![EVE-NG STP](./images/eve_vtp.png)
+![EVE-NG STP](./images/eve_vtp.PNG)
 
 ### Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler:
 
