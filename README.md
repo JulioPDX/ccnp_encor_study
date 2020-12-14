@@ -14,7 +14,7 @@
 3. [Final Thoughts and Thank You](#my-second-title)
 4. [Appreciation](#something)
 
-## Introduction and Purpose
+## Introduction and Purpose :slightly_smiling_face:
 
 Please be aware this is NOT the best study method in the world! Far from it! Everyone learns in different ways and this is just what has worked for me on my journey. I hope you enjoy and maybe grab even one thing from this document that may assist you in your certification journey.
 
@@ -22,7 +22,6 @@ Please be aware this is NOT the best study method in the world! Far from it! Eve
 
 ### Official Certification Guide
 
-:slightly_smiling_face:
 
 [CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-encor-350-401-official-9781587145230)
 
