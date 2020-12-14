@@ -6,16 +6,16 @@
     - [Official Certification Guide :blue_book: :thumbsup: top](#official-certification-guide-blue_book-thumbsup-top)
     - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
     - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: top](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler-top)
-      - [Anki Add-ons :fire: :fire: :fire: :world_map: :brain: top](#anki-add-ons-fire-fire-fire-world_map-brain-top)
+    - [Anki Add-ons :fire: :fire: :fire: :world_map: :brain: top](#anki-add-ons-fire-fire-fire-world_map-brain-top)
     - [CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: top](#cbt-nuggets-computer-man_teacher-video_camera-woman_teacher-film_strip-abacus-top)
-    - [Boson ExSim-Max top](#boson-exsim-max-top)
-    - [Honorable Mentions top](#honorable-mentions-top)
+    - [Boson ExSim-Max :question: :grey_question: :thumbsup: top](#boson-exsim-max-question-grey_question-thumbsup-top)
+    - [Honorable Mentions :speaker: :sound: :loud_sound: :loudspeaker: :mega: :postal_horn: :bell: top](#honorable-mentions-speaker-sound-loud_sound-loudspeaker-mega-postal_horn-bell-top)
   - [Final Thoughts top](#final-thoughts-top)
   - [Appreciation top](#appreciation-top)
 
 ## Introduction and Purpose :wave: :v: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-Please be aware this is NOT the best study method in the world! Far from it! Everyone learns in different ways and this is just what has worked for me on my journey. I hope you enjoy and maybe grab even one thing from this document that may assist you in your certification journey.
+Please be aware this is NOT the best study method in the world! Far from it! Everyone learns in different ways and this is just what has worked for me on my journey. I hope you enjoy and maybe grab even one thing from this document that may assist you in your certification journey. Also, I don't make any money in the links provided. I paid for all the books/software with my own money.
 
 Some small background on me. I've been working in networking for about 9 years. I obtained the old CCNP R/S a few years ago. I wanted to take on the challenge of the new exams after the "Certpocalypse" with the added blueprint points. As well as freshen up my own knowledge as I don't use everything in the blueprint in my day to day role.
 
@@ -73,7 +73,7 @@ Here is what it looks like on review. Now if you got it wrong hit the red button
 
 Ill add some more examples under the [anki_examples](/anki_examples) folder.
 
-#### Anki Add-ons :fire: :fire: :fire: :world_map: :brain: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+### Anki Add-ons :fire: :fire: :fire: :world_map: :brain: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 Really small segment on add ons. Anki supports add-ons for the web version to extend its functionality.
 
@@ -94,6 +94,8 @@ That will bring up the Image Occlusion add mode, I've tried to highlight the mos
 This is what it would look like when reviewing a card created my Image Occlusion.
 
 ![Occlusion Review](/images/occlusion_review.PNG)
+
+For more videos on using Image Occlusion check out the creators [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o)
 ### CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 This was honestly my first time using CBT Nuggets. I can honestly say I am a fan. The organization of the content and the positivity of the instructors goes a long way. Not only are the lessons well organized but they include virtual labs you can launch within your browser :exploding_head:! The OCG does not follow along with the exam blueprint but the CBT ENCOR course does. It makes for a bit of juggling act finding the videos that match up with the OCG topics. Not blaming CBT but it is what it is. Another note on that, once I am done reading a chapter from the OCG/labbing a chapter. I will also correspond that with the CBT videos. Basically getting the instruction from reading and listening/watching.
@@ -102,9 +104,18 @@ Thats really all the praise I can give, check them out! :thumbsup: :thumbsup: :t
 
 [CBT Nuggets](https://www.cbtnuggets.com)
 
-### Boson ExSim-Max [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+### Boson ExSim-Max :question: :grey_question: :thumbsup: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-### Honorable Mentions [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+Just like CBT Nuggets, Boson was a first for me on this go around. I initially used the exams as a gauge to see if I was ready for the real exam. What I found out was so much more. Not only will Boson give you the reason why a question is right, but why every other option is wrong. On top of that they include direct links in the questions to Cisco documentation in case you need to deep dive a topic even more... and make Anki flashcards. The questions really challenge you on the level of the real exam. I didn't start taking the Boson exams until I was finished with the OCG and CBT Nuggets. Honestly it may be worthwhile to take one exam before any of your studies start. This pre testing has been shown to also help learners recall information at a later time or focus in on information in an upcoming chapter (shout-out DIKTA questions from Cisco OCGs).
+
+Check out [Boson here](https://www.boson.com/)
+### Honorable Mentions :speaker: :sound: :loud_sound: :loudspeaker: :mega: :postal_horn: :bell: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+
+Here is a link of other resources I used in my studies. With any Cisco Exam I've found the more knowledge the better. For example, reading CCNP content when going for the CCNA.
+
+- [Cisco ENCOR Doc Links](https://learningnetwork.cisco.com/s/article/encor-study-materials)
+- [CCIE Routing and Switching v5.0 Volume 1-2](https://www.ciscopress.com/store/ccie-routing-and-switching-v5.0-official-cert-guide-9781587144929)
+- [Lots of great resources from other folks that have passed on reddit](https://www.reddit.com/r/ccnp/)
 
 ## Final Thoughts [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
