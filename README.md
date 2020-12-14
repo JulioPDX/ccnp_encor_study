@@ -5,7 +5,7 @@
   - [Study Resources and Tips :fireworks:](#study-resources-and-tips-fireworks)
     - [Official Certification Guide :blue_book: :thumbsup:](#official-certification-guide-blue_book-thumbsup)
     - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
-    - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler:](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler)
+    - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: top](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler-top)
       - [Anki Add-ons](#anki-add-ons)
     - [CBT Nuggets](#cbt-nuggets)
     - [Boson ExSim-Max](#boson-exsim-max)
@@ -49,7 +49,7 @@ The rest of the book would walk the reader through VTP server vs client vs trans
 
 ![EVE-NG STP](/images/eve_vtp.PNG)
 
-### Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler:
+### Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: [top](#table-of-contents)
 
 [Anki](https://apps.ankiweb.net/)
 
