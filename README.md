@@ -6,6 +6,7 @@
     - [Official Certification Guide :blue_book: :thumbsup:](#official-certification-guide-blue_book-thumbsup)
     - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
     - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler:](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler)
+      - [Anki Add-ons](#anki-add-ons)
     - [CBT Nuggets](#cbt-nuggets)
     - [Boson ExSim-Max](#boson-exsim-max)
     - [Honorable Mentions](#honorable-mentions)
@@ -50,7 +51,47 @@ The rest of the book would walk the reader through VTP server vs client vs trans
 
 ### Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler:
 
+[Anki](https://apps.ankiweb.net/)
 
+Remember before how I said I'm not the biggest fan on taking notes for retaining information? Well I am a fan of making flash cards! The current deck I have for ENCOR is just under 1000 cards. Don't let that number scare you. Everyone learns differently and you may need way less cards than that or more in some cases. Anki, the free program I use, utilizes learning principles called spaced repetition and active recall, both proven to help folks learning a topic. Basically, space out the learning on a subject in timed intervals and test the mind to recall the information. Check out these videos by Ali Abdaal for more information :arrow_right: [Active Recall](https://www.youtube.com/watch?v=ukLnPbIffxE&t=878s&ab_channel=AliAbdaal) and [Spaced Repetition](https://www.youtube.com/watch?v=Z-zNHHpXoMM&list=PL7BImOT2srcEPwr4hSVrqvWYh1SV7LBEx&index=6&ab_channel=AliAbdaal)
+
+The time required to make and practice flash cards is so small in the grand scheme of things but the returns are incredible. In my day to day, even with 900+ flashcards. At most I will be assigned around 70 per day and my daily average sits at 60. The total time it could take me to run through these flashcards is maybe 20 mins. These flashcards will take some imagination to really make things stick. Let me give you a few examples and maybe they can be a guide for you on how creative you can be.
+
+![Anki Main Interface](/images/anki_display.PNG)
+
+Lets pretend I just hit the `Add` button above. This is probably how a lot of my cards started and they are perfectly fine for quick info based scenarios. 
+
+![Anki Cloze Beginner](/images/anki_bgp_cloze.PNG)
+
+Here is what looks like when I am prompted with the card.
+
+![Anki BGP Question](/images/anki_bgp_question.PNG)
+
+Here is what it looks like on review. Now if you got it wrong hit the red button. If its okay hit the green one for later review. If it was so quick in your mind, hit the big blue button!
+
+![Anki BGP Answer](/images/anki_bgp_answer.PNG)
+
+#### Anki Add-ons
+
+Really small segment on add ons. Anki supports add-ons for the web version to extend its functionality.
+
+[Review Heatmap](https://ankiweb.net/shared/info/1771074083), all of the shades of red seen in the first Anki image. Heatmap allows you to have a big picture idea on your study history and your upcoming reviews. It allows you to see reviews performed that day, study history, daily averages and more.
+
+[Image Occlusion](https://ankiweb.net/shared/info/1374772155) makes it incredibly easy to make cards from tables of information and very quickly. This one is better with an example. Lets say I'm reading through the OCG and this awesome table comes up about routing protocol ADs.
+
+![Routing AD](/images/routing_ad.PNG)
+
+While that image is copied in my buffer, I can create a new anki card and hit this little button.
+
+![Image Occlusion Button](/images/occlusion_button.png)
+
+That will bring up the Image Occlusion add mode, I've tried to highlight the most important options. Basically cover up the answers and click `Hide All, Guess One` at the bottom! This will add 10 flashcards to your deck. It may look like a long process but in practice its really very quick.
+
+![Occlusion Add](/images/occlusion_add.PNG)
+
+This is what it would look like when reviewing a card created my Image Occlusion.
+
+![Occlusion Review](/images/occlusion_review.PNG)
 ### CBT Nuggets
 
 ### Boson ExSim-Max
