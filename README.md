@@ -1,27 +1,27 @@
 # CCNP ENCOR Study :computer: :desktop_computer: :floppy_disk:
 
 - [CCNP ENCOR Study :computer: :desktop_computer: :floppy_disk:](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
-  - [Introduction and Purpose :wave: :v:](#introduction-and-purpose-wave-v)
-  - [Study Resources and Tips :fireworks:](#study-resources-and-tips-fireworks)
-    - [Official Certification Guide :blue_book: :thumbsup:](#official-certification-guide-blue_book-thumbsup)
+  - [Introduction and Purpose :wave: :v: top](#introduction-and-purpose-wave-v-top)
+  - [Study Resources and Tips :fireworks: top](#study-resources-and-tips-fireworks-top)
+    - [Official Certification Guide :blue_book: :thumbsup: top](#official-certification-guide-blue_book-thumbsup-top)
     - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
     - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: top](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler-top)
-      - [Anki Add-ons](#anki-add-ons)
-    - [CBT Nuggets](#cbt-nuggets)
-    - [Boson ExSim-Max](#boson-exsim-max)
-    - [Honorable Mentions](#honorable-mentions)
-  - [Final Thoughts](#final-thoughts)
-  - [Appreciation](#appreciation)
+      - [Anki Add-ons top](#anki-add-ons-top)
+    - [CBT Nuggets top](#cbt-nuggets-top)
+    - [Boson ExSim-Max top](#boson-exsim-max-top)
+    - [Honorable Mentions top](#honorable-mentions-top)
+  - [Final Thoughts top](#final-thoughts-top)
+  - [Appreciation top](#appreciation-top)
 
-## Introduction and Purpose :wave: :v:
+## Introduction and Purpose :wave: :v: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 Please be aware this is NOT the best study method in the world! Far from it! Everyone learns in different ways and this is just what has worked for me on my journey. I hope you enjoy and maybe grab even one thing from this document that may assist you in your certification journey.
 
 Some small background on me. I've been working in networking for about 9 years. I obtained the old CCNP R/S a few years ago. I wanted to take on the challenge of the new exams after the "Certpocalypse" with the added blueprint points. As well as freshen up my own knowledge as I don't use everything in the blueprint in my day to day role.
 
-## Study Resources and Tips :fireworks:
+## Study Resources and Tips :fireworks: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-### Official Certification Guide :blue_book: :thumbsup:
+### Official Certification Guide :blue_book: :thumbsup: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 [CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-encor-350-401-official-9781587145230)
 
@@ -71,7 +71,7 @@ Here is what it looks like on review. Now if you got it wrong hit the red button
 
 ![Anki BGP Answer](/images/anki_bgp_answer.PNG)
 
-#### Anki Add-ons
+#### Anki Add-ons [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 Really small segment on add ons. Anki supports add-ons for the web version to extend its functionality.
 
@@ -92,12 +92,12 @@ That will bring up the Image Occlusion add mode, I've tried to highlight the mos
 This is what it would look like when reviewing a card created my Image Occlusion.
 
 ![Occlusion Review](/images/occlusion_review.PNG)
-### CBT Nuggets
+### CBT Nuggets [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-### Boson ExSim-Max
+### Boson ExSim-Max [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-### Honorable Mentions
+### Honorable Mentions [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-## Final Thoughts
+## Final Thoughts [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-## Appreciation
+## Appreciation [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
