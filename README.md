@@ -67,7 +67,7 @@ Here is what looks like when I am prompted with the card.
 
 ![Anki BGP Question](/images/anki_bgp_question.PNG)
 
-Here is what it looks like on review. Now if you got it wrong hit the red button. If its okay hit the green one for later review. If it was so quick in your mind, hit the big blue button!
+Here is what the review will look like. Now if you got it wrong hit the red button. If its okay hit the green one for later review. If it was so quick in your mind, hit the big blue button!
 
 ![Anki BGP Answer](/images/anki_bgp_answer.PNG)
 
