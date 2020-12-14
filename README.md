@@ -4,7 +4,7 @@
   - [Introduction and Purpose :wave: :v: top](#introduction-and-purpose-wave-v-top)
   - [Study Resources and Tips :fireworks: top](#study-resources-and-tips-fireworks-top)
     - [Official Certification Guide :blue_book: :thumbsup: top](#official-certification-guide-blue_book-thumbsup-top)
-    - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
+    - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse: top](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse-top)
     - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: top](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler-top)
     - [Anki Add-ons :fire: :fire: :fire: :world_map: :brain: top](#anki-add-ons-fire-fire-fire-world_map-brain-top)
     - [CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: top](#cbt-nuggets-computer-man_teacher-video_camera-woman_teacher-film_strip-abacus-top)
@@ -31,7 +31,7 @@ I'm a weirdo and read the book front to back. Call me old school! I think the OC
 
 I usually plan a set target on what I would like to accomplish that day or week with the book. If its a heavy topic like STP which spans multiple chapters, I may give myself a week to fully digest the material. Making sure to read all of the chapters and answer the questions at the start of every chapter. I will pay more attention around the question topics missed during the chapter reading. I am not a big fan of notes as I don't believe that helps me retain knowledge very well. More on that later.
 
-### Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:
+### Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 You do not have to lab to pass this exam.... BUT you will be doing yourself a disservice by not labbing. I will bet many of us learn by doing and I am no different. At the end of the day we are not only learning to pass an exam but to become great engineers. Getting on the keys, building topologies, and thinking about design is all part of the path.
 
@@ -98,7 +98,7 @@ This is what it would look like when reviewing a card created by Image Occlusion
 For more videos on using Image Occlusion check out the creators [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o)
 ### CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-This was honestly my first time using CBT Nuggets. I can honestly say I am a fan. The organization of the content and the positivity of the instructors goes a long way. Not only are the lessons well organized but they include virtual labs you can launch within your browser :exploding_head:! The OCG does not follow along with the exam blueprint but the CBT ENCOR course does. It makes for a bit of juggling act finding the videos that match up with the OCG topics. Not blaming CBT but it is what it is. Another note on that, once I am done reading a chapter from the OCG/labbing a chapter. I will also correspond that with the CBT videos. Basically getting the instruction from reading and listening/watching.
+This was honestly my first time using CBT Nuggets. I can honestly say I am a fan. The organization of the content and the positivity of the instructors goes a long way. Not only are the lessons well organized but they include virtual labs you can launch within your browser :exploding_head:! The OCG does not follow along with the exam blueprint but the CBT ENCOR course does. It makes for a bit of a juggling act finding the videos that match up with the OCG topics. Not blaming CBT but it is what it is. Another note on that, once I am done reading a chapter from the OCG/labbing a chapter, I will also correspond that with the CBT videos. Basically getting the instruction from reading and listening/watching.
 
 Thats really all the praise I can give, check them out! :thumbsup: :thumbsup: :thumbsup:
 
