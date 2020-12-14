@@ -79,7 +79,7 @@ Really small segment on add ons. Anki supports add-ons for the web version to ex
 
 [Image Occlusion](https://ankiweb.net/shared/info/1374772155) makes it incredibly easy to make cards from tables of information and very quickly. This one is better with an example. Lets say I'm reading through the OCG and this awesome table comes up about routing protocol ADs.
 
-![Routing AD](/images/routing_ad.PNG)
+![Routing AD](/images/routing.PNG)
 
 While that image is copied in my buffer, I can create a new anki card and hit this little button.
 
