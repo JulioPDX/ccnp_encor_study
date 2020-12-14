@@ -77,7 +77,7 @@ Ill add some more examples under the [anki_examples](/anki_examples) folder.
 
 Really small segment on add ons. Anki supports add-ons for the web version to extend its functionality.
 
-[Review Heatmap](https://ankiweb.net/shared/info/1771074083), all of the shades of red seen in the first Anki image. Heatmap allows you to have a big picture idea on your study history and your upcoming reviews. It allows you to see reviews performed that day, study history, daily averages and more.
+[Review Heatmap](https://ankiweb.net/shared/info/1771074083), all of the shades of red seen in the first Anki image above. Heatmap allows you to have a big picture idea on your study history and your upcoming reviews. It allows you to see reviews performed that day, study history, daily averages and more.
 
 [Image Occlusion](https://ankiweb.net/shared/info/1374772155) makes it incredibly easy to make cards from tables of information and very quickly. This one is better with an example. Lets say I'm reading through the OCG and this awesome table comes up about routing protocol ADs.
 
