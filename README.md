@@ -6,7 +6,7 @@
     - [Official Certification Guide :blue_book: :thumbsup: top](#official-certification-guide-blue_book-thumbsup-top)
     - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
     - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: top](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler-top)
-      - [Anki Add-ons :fire: :fire: :fire: :world_map: top](#anki-add-ons-fire-fire-fire-world_map-top)
+      - [Anki Add-ons :fire: :fire: :fire: :world_map: :brain: top](#anki-add-ons-fire-fire-fire-world_map-brain-top)
     - [CBT Nuggets top](#cbt-nuggets-top)
     - [Boson ExSim-Max top](#boson-exsim-max-top)
     - [Honorable Mentions top](#honorable-mentions-top)
@@ -73,7 +73,7 @@ Here is what it looks like on review. Now if you got it wrong hit the red button
 
 Ill add some more examples under the [anki_examples](/anki_examples) folder.
 
-#### Anki Add-ons :fire: :fire: :fire: :world_map: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+#### Anki Add-ons :fire: :fire: :fire: :world_map: :brain: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 Really small segment on add ons. Anki supports add-ons for the web version to extend its functionality.
 
