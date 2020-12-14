@@ -71,6 +71,8 @@ Here is what it looks like on review. Now if you got it wrong hit the red button
 
 ![Anki BGP Answer](/images/anki_bgp_answer.PNG)
 
+Ill add some more examples under the [anki_examples](/anki_examples) folder.
+
 #### Anki Add-ons [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 Really small segment on add ons. Anki supports add-ons for the web version to extend its functionality.
@@ -81,7 +83,7 @@ Really small segment on add ons. Anki supports add-ons for the web version to ex
 
 ![Routing AD](/images/routing.PNG)
 
-While that image is copied in my buffer, I can create a new anki card and hit this little button.
+While that image is copied in my buffer, I can create a new Anki card and hit this little button.
 
 ![Image Occlusion Button](/images/occlusion_button.PNG)
 
