@@ -49,7 +49,7 @@ The rest of the book would walk the reader through VTP server vs client vs trans
 
 ![EVE-NG STP](/images/eve_vtp.PNG)
 
-### Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: [top](#table-of-contents)
+### Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: [top](##ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 [Anki](https://apps.ankiweb.net/)
 
