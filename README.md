@@ -7,7 +7,7 @@
     - [Lab, Lab, Lab :man_technologist: :woman_technologist: :computer: :keyboard: :computer_mouse:](#lab-lab-lab-man_technologist-woman_technologist-computer-keyboard-computer_mouse)
     - [Anki Flashcards :sparkler::thumbsup: :thumbsup: :thumbsup: :sparkler: top](#anki-flashcards-sparklerthumbsup-thumbsup-thumbsup-sparkler-top)
       - [Anki Add-ons :fire: :fire: :fire: :world_map: :brain: top](#anki-add-ons-fire-fire-fire-world_map-brain-top)
-    - [CBT Nuggets :computer: :man_teacher: :woman_teacher: :abacus: top](#cbt-nuggets-computer-man_teacher-woman_teacher-abacus-top)
+    - [CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: top](#cbt-nuggets-computer-man_teacher-video_camera-woman_teacher-film_strip-abacus-top)
     - [Boson ExSim-Max top](#boson-exsim-max-top)
     - [Honorable Mentions top](#honorable-mentions-top)
   - [Final Thoughts top](#final-thoughts-top)
@@ -94,7 +94,9 @@ That will bring up the Image Occlusion add mode, I've tried to highlight the mos
 This is what it would look like when reviewing a card created my Image Occlusion.
 
 ![Occlusion Review](/images/occlusion_review.PNG)
-### CBT Nuggets :computer: :man_teacher: :woman_teacher: :abacus: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+### CBT Nuggets :computer: :man_teacher: :video_camera: :woman_teacher: :film_strip: :abacus: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
+
+This was honestly my first time using CBT Nuggets. I can honestly say I am a fan. The organization of the content and the positivity of the instructors goes a long way. Not only is the instruction well organized but they include virtual labs you can launch within your browser :exploding_head:! 
 
 ### Boson ExSim-Max [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
