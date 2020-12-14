@@ -83,7 +83,7 @@ Really small segment on add ons. Anki supports add-ons for the web version to ex
 
 While that image is copied in my buffer, I can create a new anki card and hit this little button.
 
-![Image Occlusion Button](/images/occlusion_button.png)
+![Image Occlusion Button](/images/occlusion_button.PNG)
 
 That will bring up the Image Occlusion add mode, I've tried to highlight the most important options. Basically cover up the answers and click `Hide All, Guess One` at the bottom! This will add 10 flashcards to your deck. It may look like a long process but in practice its really very quick.
 
