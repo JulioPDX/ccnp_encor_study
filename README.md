@@ -87,7 +87,7 @@ While that image is copied in my buffer, I can create a new Anki card and hit th
 
 ![Image Occlusion Button](/images/occlusion_button.PNG)
 
-That will bring up the Image Occlusion add mode, I've tried to highlight the most important options. Basically cover up the answers and click `Hide All, Guess One` at the bottom! This will add 10 flashcards to your deck. It may look like a long process but in practice its really very quick.
+That will bring up the Image Occlusion add mode, I've tried to highlight the most important options. Basically cover up the answers and click `Hide All, Guess One` at the bottom! This will add 10 flashcards to your deck. It may look like a long process but in practice its really very quick. We just created 10 cards at once vs 10 individual cards!
 
 ![Occlusion Add](/images/occlusion_add.PNG)
 
