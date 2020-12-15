@@ -133,4 +133,4 @@ I hope you find something in this write up that may help you on your certificati
 - Dragon Bal Z - Bird Studio/Shueisha
 - Gain Detergent - Procter & Gamble
 - Pull Down Guy.... eh? :man_shrugging:
-- Cisco Images- From Cisco ENCOR book liked above, get it!
+- Cisco Images- From Cisco ENCOR book linked above, get it!
