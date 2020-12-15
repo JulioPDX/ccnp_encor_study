@@ -130,7 +130,7 @@ I hope you find something in this write up that may help you on your certificati
 
 ## Image Credit :framed_picture: :hugs: :framed_picture: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
-- Dragon Bal Z - Bird Studio/Shueisha
+- Dragon Ball Z - Bird Studio/Shueisha
 - Gain Detergent - Procter & Gamble
 - Pull Down Guy.... eh? :man_shrugging:
 - Cisco Images- From Cisco ENCOR book linked above, get it!
