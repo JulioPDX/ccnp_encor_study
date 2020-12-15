@@ -12,7 +12,7 @@
     - [Honorable Mentions :speaker: :sound: :loud_sound: :loudspeaker: :mega: :postal_horn: :bell: top](#honorable-mentions-speaker-sound-loud_sound-loudspeaker-mega-postal_horn-bell-top)
   - [Final Exam Thoughts :speaking_head: :thought_balloon: top](#final-exam-thoughts-speaking_head-thought_balloon-top)
   - [Appreciation :hugs: top](#appreciation-hugs-top)
-  - [Image Credit](#image-credit)
+  - [Image Credit :framed_picture: :hugs: :framed_picture: top](#image-credit-framed_picture-hugs-framed_picture-top)
 
 ## Introduction and Purpose :wave: :v: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
@@ -128,7 +128,7 @@ Oh yeah and the exam tips. Here is my best tip without breaking the NDA. Study E
 
 I hope you find something in this write up that may help you on your certification journey. I have to close this out with some appreciation. I did not do this alone. Shout-out to my wife Amanda :woman_scientist: for supporting me in all my studies and letting me lock myself in our office for those long weekend sessions. Shout-out to the networking community for always being there to answer questions and provide some inspiration for everyone on their own journey to becoming a network engineer! I would make a list but there would be waaaay to many people. You know who you are! :wink:
 
-## Image Credit
+## Image Credit :framed_picture: :hugs: :framed_picture: [top](#ccnp-encor-study-computer-desktop_computer-floppy_disk)
 
 - Dragon Bal Z - Bird Studio/Shueisha
 - Gain Detergent - Procter & Gamble
